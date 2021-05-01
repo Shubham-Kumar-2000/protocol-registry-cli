@@ -1,0 +1,51 @@
+{
+  "name": "protocol-registry-cli",
+  "version": "1.0.0",
+  "description": "This is a command line version of protocol registry npm module.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "prepare": "husky install",
+    "devStart": "nodemon src/index.js",
+    "start": "node src/index.js",
+    "format": "./node_modules/.bin/eslint . --fix"
+  },
+  "engines": {
+    "node": ">=10.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubham-Kumar-2000/protocol-registry-cli.git"
+  },
+  "keywords": [
+    "protocol",
+    "registry",
+    "cli",
+    "command",
+    "line",
+    "register",
+    "custom",
+    "protocol",
+    "using",
+    "command",
+    "line"
+  ],
+  "author": "Shubham Kumar <shukhu10@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Shubham-Kumar-2000/protocol-registry-cli/issues"
+  },
+  "homepage": "https://github.com/Shubham-Kumar-2000/protocol-registry-cli#readme",
+  "devDependencies": {
+    "eslint": "^7.22.0",
+    "eslint-config-prettier": "^6.7.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "husky": "^6.0.0",
+    "nodemon": "^2.0.7",
+    "prettier": "2.2.1"
+  },
+  "dependencies": {
+    "protocol-registry": "^1.3.2"
+  }
+}
