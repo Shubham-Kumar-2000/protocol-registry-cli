@@ -112,3 +112,4 @@ yarn.lock
 assets
 test
 .eslintrc.json
+protocol-registry-cli*
