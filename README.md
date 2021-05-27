@@ -15,9 +15,9 @@ This is meant to be used in terminal, not in the browser.
 $ npm i -g protocol-registry-cli
 ```
 **You can download the binary version here :**
-- [`Windows`](protocol-registry-cli-win.exe)
-- [`linux`](protocol-registry-cli-linux)
-- [`MacOS`](protocol-registry-cli-macos)
+- [`Windows`](https://github.com/Shubham-Kumar-2000/protocol-registry-cli/raw/main/protocol-registry-cli-win.exe)
+- [`linux`](https://github.com/Shubham-Kumar-2000/protocol-registry-cli/raw/main/protocol-registry-cli-linux)
+- [`MacOS`](https://github.com/Shubham-Kumar-2000/protocol-registry-cli/raw/main/protocol-registry-cli-macos)
 
 ## Usage
 
